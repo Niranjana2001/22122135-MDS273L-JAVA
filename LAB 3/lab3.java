@@ -28,29 +28,25 @@ class lab3{
         }
         return median;   
     }
-    static int mode(int[] array){
-        int mode=0;
+    static int mode(int[] array) {
+    int mode = 0;
+    int max = 0;
+
+    for (int i = 0; i < array.length; i++) {
         int y = 0;
-        int x = 0;
-        int[] modearray=new int[array.length];
-        // Arrays.sort(array);
-        for (int i =0;i<array.length;i++){
-            for (int j=0;j<array.length;j++){
-                if(array[i]==array[j]){
-                    y+=1;
-                }
-            }
-            modearray[i]=y;
-        }
-       
-        int max=modearray[0];
-        for (int i =0;i<modearray.length;i++){
-            if(modearray[i]>max){
-                mode=array[i];
+        for (int j = 0; j < array.length; j++) {
+            if (array[j] == array[i]) {
+                y++;
             }
         }
-        return mode;
+        if (y > max) {
+            max = y;
+            mode = array[i];
+        }
     }
+
+    return mode;
+}
         public static void main(String[] args){
         Scanner scan=new Scanner(System.in);
         int k;
