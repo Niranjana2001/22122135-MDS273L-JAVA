@@ -8,7 +8,9 @@ Find the Mode Value
 From the user-given array.
 The program should have a minimum of 3 functions apart from the main function; each of the functions implements the Mean, Median, and Mode computation by accepting the array user has entered as a parameter and returning the value as a result. From the main method, you will display the result.
 
-Rules : 
+Flowchart :
+![image](https://user-images.githubusercontent.com/118504444/219305958-5db8d105-9a26-4974-9d11-c52cfc004cbc.png)
+
 
 Sample Output:
 Enter the number of values you want in the array : 
