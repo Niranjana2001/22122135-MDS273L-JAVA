@@ -48,7 +48,7 @@ class Studentdetails{
             case "Rajasthan":
             case "Punjab":
             {
-                System.out.println("The student is from Western part of India.");
+                System.out.println("The student is from Western part of India .");
                 break;
             }
             
