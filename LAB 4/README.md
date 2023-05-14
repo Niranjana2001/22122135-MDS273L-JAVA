@@ -1,4 +1,4 @@
-QUESTION : 
+#### QUESTION : 
 Write a JAVA Menu driven program that does the following:
 You can ONLY have the below variables as global variables
 Account Number
@@ -18,56 +18,11 @@ To print account summary
 You need to draw a flowchart and structure your results and program description, and other details in README.md.
 Before working on the code, write the logic (algorithm/flowchart) in your observation note.
 
+#### Flowchart :
 
+![image](https://github.com/Niranjana2001/22122135-MDS273L-JAVA/assets/118504444/19839051-9e6c-46cb-8168-da786880c540)
 
-SAMPLE OUTPUT : 
-Enter the account holder's name : 
-Niranjana
-Enter the account number :
-22122123
-Enter the amount you want to deposit :
-3000
- 1.Deposit
- 2.Withdrawal
- 3.Transactions
- 4.Summary
- Enter your choice :
-1
-Enter the amount you want to deposit :
-4000
-The new balance is : 7000
-Press 0 to continue
-0
- 1.Deposit
- 2.Withdrawal
- 3.Transactions
- 4.Summary
- Enter your choice :
-1
-Enter the amount you want to deposit :
-3000
-The new balance is : 10000
-Press 0 to continue
-0
- 1.Deposit
- 2.Withdrawal
- 3.Transactions
- 4.Summary
- Enter your choice :
-2
-Enter the amount you want to withdraw :
-700
-The new balance is : 9300
-Press 0 to continue
-0
- 1.Deposit
- 2.Withdrawal
- 3.Transactions
- 4.Summary
- Enter your choice :
-4
-Account Summary
-Account Holder's name : Niranjana
-Account number : 22122123
-The current balance is : 9300
-Press 0 to continue
+#### Sample Output :
+
+![image](https://github.com/Niranjana2001/22122135-MDS273L-JAVA/assets/118504444/05641611-f34d-4f09-ae7b-ca7a5ff7c475)
+
