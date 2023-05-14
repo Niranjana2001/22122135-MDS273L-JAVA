@@ -1,4 +1,4 @@
-Question : 
+#### Question : 
 Create a student class, that will store the details of the Student
 Reg. No.
 Name
@@ -18,48 +18,10 @@ Search for the details of a student from the array of Student
 Display all students
 Displays the details of all students
 
-Sample Output : 
-Enter 1 to add student
-Enter 2 search student
-Enter 3 to display all the student details
-Enter 4 to exit
-1
-Enter name of student :Niranjana
-Enter the name reg no :22122135
-Enter the email :niranjana@gmail.com
-Enter the phone number  :223243545343
-Enter the class you enrolled :2 MSc DS B
-Enter the department :Data Science
-Enter 1 to add student
-Enter 2 search student
-Enter 3 to display all the student details
-Enter 4 to exit
-2
-Enter the name of student you want to search :Niranjana
----------------------------------
-register no : 22122135
-name : Niranjana
-email : niranjana@gmail.com
-phone : 223243545343
-department : 2 MSc DS B
-department : Data Science
----------------------------------
-Enter 1 to add student
-Enter 2 search student
-Enter 3 to display all the student details
-Enter 4 to exit
-3
----------------------------------
-register no : 22122135
-name : Niranjana
-email : niranjana@gmail.com
-phone : 223243545343
-department : 2 MSc DS B
-department : Data Science
----------------------------------
-Enter 1 to add student
-Enter 2 search student
-Enter 3 to display all the student details
-Enter 4 to exit
-4
-Thank you!
+#### Flow Chart :
+
+![image](https://github.com/Niranjana2001/22122135-MDS273L-JAVA/assets/118504444/d1226c97-e4f3-4712-980a-62592b7a463e)
+
+#### Sample Output : 
+
+![image](https://github.com/Niranjana2001/22122135-MDS273L-JAVA/assets/118504444/8af0f499-3de1-4aa6-80dc-6eeab4a8f5c3)
