@@ -13,6 +13,7 @@ RULES :
 - Height has to be rounded off to nearest integer.
 
 SAMPLE OUTPUT : 
+
 ![image](https://github.com/Niranjana2001/22122135-MDS273L-JAVA/assets/118504444/c6d2324b-64e9-494c-b994-7092e5180327)
 
 STUDENT DETAILS
